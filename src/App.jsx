@@ -73,7 +73,6 @@ const App = () => {
             <div className="post-meta">2026-02-24 • AI, Guide</div>
             <div className="content">
               <p>This is a mock detail view. In a real application, this would fetch markdown or CMS data.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
             </div>
           </article>
         )}
@@ -90,7 +89,7 @@ const App = () => {
                 required 
               />
               <textarea 
-                placeholder="Content (Markdown supported in spirit)" 
+                placeholder="Content" 
                 rows="10"
                 value={newPost.content}
                 onChange={(e) => setNewPost({...newPost, content: e.target.value})}
