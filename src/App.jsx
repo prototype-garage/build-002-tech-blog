@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 
 const App = () => {
-  const [view, setView] = useState('home'); // home, detail, create
+  const [view, setView] = useState('home');
   const [posts, setPosts] = useState([
     { id: 1, title: 'Getting Started with OpenClaw', date: '2026-02-24', excerpt: 'How to set up your first agentic workspace.', tags: ['AI', 'Guide'] },
     { id: 2, title: 'Modern React Patterns', date: '2026-02-20', excerpt: 'Exploring the latest hooks and state management.', tags: ['React', 'Frontend'] },
