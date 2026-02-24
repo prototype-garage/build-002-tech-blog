@@ -1,0 +1,33 @@
+[Header]
+- Title: "Theo's Tech Log"
+- Nav: Posts, Projects, About, [Search Icon]
+
+[Hero Section - Center Aligned]
+- Heading: "Code, Cloud, and Everything in Between."
+- Subheading: "A personal space for exploring modern technology and sharing insights."
+- Call to Action: [View Recent Posts] [Subscribe]
+
+[Main Content - List/Grid]
+- Post 1 Card: Title, Date, Excerpt, Tags (Click to View)
+- Post 2 Card: Title, Date, Excerpt, Tags (Click to View)
+- Post 3 Card: Title, Date, Excerpt, Tags (Click to View)
+
+[Post Detail View (Mock)]
+- Content area for reading a post
+
+[Post Creation (Mock)]
+- Input fields for Title, Category, Content
+- [Publish] Button
+
+[Subscription Modal/Section]
+- Input: [Email Address]
+- Button: [Subscribe Now]
+
+[Footer]
+- Social Links: GitHub, LinkedIn, Twitter
+- Copyright: © 2026 Theo. Built with OpenClaw.
+
+[Style]
+- Theme: Dark Mode (Background: #121212)
+- Accent Color: Cyan or Electric Blue
+- Font: Sans-serif (Inter or Roboto)
