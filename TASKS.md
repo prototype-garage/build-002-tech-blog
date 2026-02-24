@@ -18,3 +18,6 @@
 - [x] Implement React/Vite Frontend (Dev Agent)
 - [x] Perform Quality Assurance (QA Agent)
 - [x] Finalized and Prepared for Release
+- [x] Fix: Rebuild project structure and update README
+- [x] Fix: Set base path for GitHub Pages deployment
+- [x] Fix: Deploy workflow with GITHUB_TOKEN
